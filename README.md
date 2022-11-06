@@ -1,6 +1,6 @@
 # java-uuid
 
-A replacement implementation for `java.util.UUID` with the missing RFC 4122 features.
+A replacement implementation for `java.util.UUID` with the missing [RFC 4122](https://www.ietf.org/rfc/rfc4122.txt) features.
 
 ## Features
 
